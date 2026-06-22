@@ -17,8 +17,8 @@ style: "deep"
 * Dec 2025:	NYCUDL Open League Tournament 2	            (MS PF JV)
 * Jan 2026:	NYCUDL Open League Tournament 3	            (MS PF JV)
 * Feb 2026:	NYC Reads Tournament 2	                    (Intermediate PF Debate)
-* **Mar 2026:	NYCUDL Open League Championship	            MS PF JV**
-* May 2026:	NYC Reads Tournament 3	                    Intermediate PF 
+* **Mar 2026:	NYCUDL Open League Championship	            (MS PF JV)**
+* May 2026:	NYC Reads Tournament 3	                    (Intermediate PF) 
 
    
       
