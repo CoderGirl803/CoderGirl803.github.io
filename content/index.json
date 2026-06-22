@@ -1,0 +1,17 @@
+{
+  "projects": [
+    "portfolio-cms.md",
+    "study-dashboard.md",
+    "ui-component-lab.md"
+  ],
+  "blog": [
+    "building-with-markdown.md",
+    "designing-a-developer-home.md",
+    "notes-on-github-pages.md"
+  ],
+  "achievements": [
+    "github-pages-launch.md",
+    "frontend-foundations.md",
+    "open-source-practice.md"
+  ]
+}
