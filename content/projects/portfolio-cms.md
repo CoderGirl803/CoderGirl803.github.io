@@ -1,5 +1,5 @@
 ---
-title: "Markdown Portfolio CMS"
+title: "Senya Wanigasooriya"
 summary: "A GitHub Pages portfolio that loads projects, posts, and achievements from Markdown files."
 date: "2026"
 order: 1
